@@ -24,10 +24,7 @@ To enhance user engagement and simplify understanding of the TeaMS ERP System th
 - Landbot (No-code chatbot builder)
 - PDF Report (with flow, explanation, and use case)
 
-## 📷 Screenshots
-
-*(Add screenshots if available)*
 
 ---
 
-🧠 Created by [Your Name] as part of my learning and innovation in ERP systems & chatbot technology.
+🧠 Created by MITHUN as part of my learning and innovation in ERP systems & chatbot technology.
